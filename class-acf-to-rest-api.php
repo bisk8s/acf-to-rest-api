@@ -2,10 +2,10 @@
 /**
  * Plugin Name: ACF to REST API
  * Description: Exposes Advanced Custom Fields Endpoints in the WordPress REST API
- * Author: Aires Gonçalves
- * Author URI: http://github.com/airesvsg
+ * Author: Guilherme Lucena
+ * Author URI: http://github.com/bisk8s
  * Version: 3.3.1
- * Plugin URI: http://github.com/airesvsg/acf-to-rest-api
+ * Plugin URI: http://github.com/bisk8s/acf-to-rest-api
  */
 
  // Enable the option show in rest

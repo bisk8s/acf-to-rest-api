@@ -8,7 +8,7 @@ if ( ! class_exists( 'ACF_To_REST_API_Settings' ) ) {
 
 	class ACF_To_REST_API_Settings {
 
-		private static $github_url   = 'http://github.com/airesvsg/acf-to-rest-api';
+		private static $github_url   = 'http://github.com/bisk8s/acf-to-rest-api';
 
 		public static function init() {
 			self::hooks();
