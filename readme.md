@@ -1,8 +1,8 @@
 # ACF to REST API
 
-#### THIS IS NOT THE [OFICIAL REPO](https://github.com/airesvsg/acf-to-rest-api/)
+#### THIS IS NOT THE [OFFICIAL REPO](https://github.com/airesvsg/acf-to-rest-api/)
 
-## This version of the plugin has my custom mods for my web site needs.
+## This version of the plugin has my custom, mods for my web site needs.
 
 #### Feel free to fork it. But be knowing that I will not give support for this plugin. Thanks :)
 
